@@ -29,11 +29,11 @@ Add a modern, international phone input field to your Contact Form 7 forms—com
 
 2. In your Contact Form 7 form, add:
    ```
-   [smartphone your-phone]
+   [phone your-phone]
    ```
    or, for a required field:
    ```
-   [smartphone* your-phone]
+   [phone* your-phone]
    ```
 3. Save and publish your form.
 
@@ -44,6 +44,10 @@ Add a modern, international phone input field to your Contact Form 7 forms—com
 
 
 ![image](https://github.com/user-attachments/assets/90176e64-077f-4840-a318-538ed9a193d6)
+![image](https://github.com/user-attachments/assets/2f78a35b-129b-4584-9fca-ae0f45e3d10a)
+![image](https://github.com/user-attachments/assets/4904370b-1f60-4543-a2f6-95eb7d488cd3)
+
+
 
 
 ---
