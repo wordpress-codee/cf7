@@ -9,7 +9,7 @@ Add a modern, international phone input field to your Contact Form 7 forms—com
 ### Features
 
 * **Seamless CF7 Integration:**
-  Use `[smartphone your-phone]` in your forms just like any built-in field.
+  Use `[phone phone-123]` in your forms just like any built-in field.
 * **Beautiful UI:**
   Shows country flags and international dialing codes.
 * **Mobile-Friendly:**
@@ -17,7 +17,7 @@ Add a modern, international phone input field to your Contact Form 7 forms—com
 * **Automatic Formatting:**
   Phone numbers are validated and formatted to international standards (E.164) before submission.
 * **Easy Validation:**
-  Mark as required or optional with `[smartphone* your-phone]`.
+  Mark as required or optional with `[phone phone-205]`.
 * **Customizable:**
   Control field classes, placeholder, min/max length, and more via the tag generator UI.
 
