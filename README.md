@@ -1,7 +1,4 @@
-Absolutely! Here’s a clean and professional **GitHub description** for your Contact Form 7 Smart Phone Field add-on.
-You can use this as your main `README.md` or repo description.
 
----
 
 ## 📱 Contact Form 7: Smart Phone Field
 
